@@ -1,0 +1,1 @@
+# Card-Trading-Discord-Bot
